@@ -34,6 +34,7 @@
       <button type="submit" name="submit">Einloggen</button>
     </form>
     <br>
-    <a href="register.php">Noch keinen Account?</a>
+    <a href="register.php">Noch keinen Account?</a><br>
+    <a href="passwordreset.php">Hast du dein Passwor vergessen?</a>
   </body>
 </html>
